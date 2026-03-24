@@ -2,4 +2,4 @@
 
 
 
-## Download the csv or xlsx flie for your project.
+## Download the csv or xlsx file for your project.
